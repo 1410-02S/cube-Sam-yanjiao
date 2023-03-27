@@ -2,6 +2,8 @@ import java.util.Scanner;
 import java.util.ArrayList;
 
 
+//Looks fairly omcplete to me, could be easier to use but thats fine.
+
 public class cubes {
 
     String [][] cube = {{
